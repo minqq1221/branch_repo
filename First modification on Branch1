@@ -1,7 +1,7 @@
 //123123123123123123
 //123123123123123
 
-def partition(l, r, nums):
+printf("git git git")
     # Last element will be the pivot and the first element the pointer
     pivot, ptr = nums[r], l
     for i in range(l, r):
